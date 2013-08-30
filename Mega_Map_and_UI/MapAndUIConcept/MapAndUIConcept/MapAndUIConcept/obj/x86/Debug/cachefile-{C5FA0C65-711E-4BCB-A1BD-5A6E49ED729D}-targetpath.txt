@@ -1,0 +1,12 @@
+Content\background1920x1080.xnb
+Content\brick40x40.xnb
+Content\PersonIcon40x40.xnb
+Content\SpriteFont1.xnb
+Content\BPH.xnb
+Content\RightArrowIcon40x40.xnb
+Content\ArmyIcon40x40.xnb
+Content\LeftArrowIcon40x40.xnb
+Content\ResearchIcon40x40.xnb
+Content\DownArrowIcon40x40.xnb
+Content\RockIcon40x40.xnb
+Content\PersonWithRockIcon40x40.xnb
